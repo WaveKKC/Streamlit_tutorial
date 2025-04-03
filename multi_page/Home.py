@@ -4,3 +4,4 @@ import streamlit as st
 # CRT + C => cancel run server
 
 #16 Multi-Pages App
+st.title("Home Page")
